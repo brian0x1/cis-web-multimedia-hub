@@ -16,3 +16,7 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 *.log
+
+# Dependencies and environment files
+node_modules/
+.env
