@@ -21,7 +21,13 @@ This repository demonstrates my progress with Git, GitHub, web development, mult
 
 ## Version-Control Workflow
 
-Development work is completed on separate branches, committed using conventional commit messages, and merged into the `main` branch.
+Development work is completed on separate branches, committed using conventional commit messages, and merged into the `main` branch.    
+
+## Student Information
+
+- **Student:** Brian Anaya
+- **Course:** Web & Multimedia Development
+- **Environment:** Windows 11 using Git Bash
 
 ## Author
 
